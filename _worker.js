@@ -29,7 +29,7 @@ let addressesnotlsapi = [
 
 let DLS = 5;//速度下限
 let addressescsv = [
-	'https://raw.githubusercontent.com/ztyawc/csv/main/result.csv', //iptest测速结果文件。
+	'https://gitlab.com/api/v4/projects/ztyawc%2Fclash/repository/files/AS0-2095-0.csv/raw?ref=main&private_token=glpat-UctxiL_xt2xZT_ciYyqr', //iptest测速结果文件。
 ];
 
 let subconverter = "subapi-loadbalancing.pages.dev"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
